@@ -18,6 +18,7 @@ export default function App() {
       return
     }
     
+
     toast.success("Login realizado com sucesso!")
   }
 
@@ -58,3 +59,4 @@ export default function App() {
     </div>
   )
 }
+
